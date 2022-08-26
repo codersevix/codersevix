@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @codersevix
 - 👀 I’m interested in Coding, Graphic Desining, Web Developing 
 - 🌱 I’m currently learning Python & C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@codersevix
 
 <!---
