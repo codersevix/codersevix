@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codersevix
-- 👀 I’m interested in Coding, Graphic Desining, Web Developing 
+- 👀 I’m interested in Coding, Graphic Desining, Video Editing & Web Developing 
 - 🌱 I’m currently learning Python & C++
 - 📫 How to reach me ...@codersevix
 
